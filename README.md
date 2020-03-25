@@ -1,5 +1,6 @@
-# tie-api-example-twilio-ivr
-This example connector allows you to establish a phone call with a Teneo bot. The connector makes your Teneo bot available via Twilio IVR (Interactive Voice Response). This guide will take you through the steps of setting a new Twilio phone number and deploying the connector to respond to events sent by Twilio.
+# twilio-test
+Adapted from IVR with Twilio connector.
+
 
 ## Prerequisites
 ### Https
